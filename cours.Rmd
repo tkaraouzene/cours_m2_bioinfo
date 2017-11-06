@@ -2,8 +2,14 @@
 title: "TP M2 bioinfo"
 author: "Thomas Karaouzene"
 date: "07 novembre 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## Informations :  
 
