@@ -19,7 +19,7 @@ Prenez le réflèxe d'explorer par vous-même les différents outils.
 
 ## Analyse de deux frères azoospermes  
 
-Afin d'identifier la cause génétique entraînant un phénotype d'anomalies morphologiques du flagelle spermatique chez deux frères, vous décidez d'effectuer un séquençage exomique de ceux-ci.
+Afin d'identifier la cause génétique entraînant un phénotype d'azoospermie chez deux frères, vous décidez d'effectuer un séquençage exomique de ceux-ci.
 En plus de ces deux deux frères, vous séquencez un troisième individus sain.  
 
 <span style="color:#0084FF"> En utilisant le logiciel [*Variant Effect Predictor*](http://grch37.ensembl.org/Homo_sapiens/Tools/VEP) pour annoter les exomes de ces trois individus et en appliquant les filtres classiques, identifiez le variant ayant le plus de risque d'être le responsable du phénotype des deux frères.  </span>  
